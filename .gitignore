@@ -1,0 +1,14 @@
+.terraform
+terraform.tfstate
+.terraform.lock.hcl
+terraform.tfstate.backup
+terraform.tfvars
+default.auto.tfvars
+
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+crash.log
+
+*id_rsa*
